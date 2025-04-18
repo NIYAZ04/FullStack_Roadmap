@@ -79,3 +79,22 @@ Helpful tools and services to integrate advanced AI features:
 
 ---
 
+🔹 5. Developer Productivity via AI (Eat Your Own Dog Food)
+Use AI not just in your apps, but in your daily dev workflow.
+
+👨‍💻 Smart Productivity
+GitHub Copilot / Cody / CodeWhisperer
+
+AI for writing test cases
+
+AI code explainers and bug fixers
+
+Natural language-to-SQL tools
+
+Bonus: Mini AI Project Ideas for Devs
+You could add this as a “kickstart your AI skills” section:
+
+Chatbot for documentation search
+
+Image generator for blog banners
+

@@ -1,4 +1,4 @@
-# 🌐 FULL STACK ROADMAP
+# 🌐 6 Months  FULL STACK ROADMAP 
 
 ---
 
@@ -422,4 +422,21 @@
 - Performance Considerations
 
 ---
+
+## 🔹 14. What’s Next After React
+
+Once you've completed learning React, here's what you can dive into next to become a more complete full stack developer:
+
+### 🚀 Learn Next.js
+Take your React skills to the next level with this powerful full-stack framework.
+
+### 🧪 Practice Projects
+Build real-world projects using Next.js to solidify your learning
+
+
+
+### 🧼 Learn Clean Code Practices
+- Component structuring and folder architecture
+- Reusable hooks and components
+- Consider starting TypeScript
 
